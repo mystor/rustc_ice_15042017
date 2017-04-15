@@ -1,0 +1,9 @@
+[package]
+name = "rustc_ice_15042017_macro"
+version = "0.1.0"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
+
+[lib]
+proc-macro = true
+
+[dependencies]
